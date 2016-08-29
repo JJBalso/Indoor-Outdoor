@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IN-OUT Detection</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_second">Second Activity</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_test">Test</string>
+    <string name="AIzaSyDLOYa0kIEhJqjKimPjV7DKXz4RQ1puIkE">API KEY</string>
+    <string name="AIzaSyBHOW7vFZFB39qxVVoeUkAjpo_8TW5gh2k">API KEY DIRECTIONS</string>
+</resources>
